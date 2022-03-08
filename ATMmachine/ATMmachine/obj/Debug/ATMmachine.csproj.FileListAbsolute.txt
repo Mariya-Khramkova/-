@@ -1,0 +1,11 @@
+C:\Users\sevan\Documents\.job\.C#\ATM machine 900\ATMmachine\ATMmachine\bin\Debug\ATMmachine.exe.config
+C:\Users\sevan\Documents\.job\.C#\ATM machine 900\ATMmachine\ATMmachine\bin\Debug\ATMmachine.exe
+C:\Users\sevan\Documents\.job\.C#\ATM machine 900\ATMmachine\ATMmachine\bin\Debug\ATMmachine.pdb
+C:\Users\sevan\Documents\.job\.C#\ATM machine 900\ATMmachine\ATMmachine\obj\Debug\ATMmachine.csproj.AssemblyReference.cache
+C:\Users\sevan\Documents\.job\.C#\ATM machine 900\ATMmachine\ATMmachine\obj\Debug\ATMmachine.Form1.resources
+C:\Users\sevan\Documents\.job\.C#\ATM machine 900\ATMmachine\ATMmachine\obj\Debug\ATMmachine.Properties.Resources.resources
+C:\Users\sevan\Documents\.job\.C#\ATM machine 900\ATMmachine\ATMmachine\obj\Debug\ATMmachine.csproj.GenerateResource.cache
+C:\Users\sevan\Documents\.job\.C#\ATM machine 900\ATMmachine\ATMmachine\obj\Debug\ATMmachine.csproj.CoreCompileInputs.cache
+C:\Users\sevan\Documents\.job\.C#\ATM machine 900\ATMmachine\ATMmachine\obj\Debug\ATMmachine.exe
+C:\Users\sevan\Documents\.job\.C#\ATM machine 900\ATMmachine\ATMmachine\obj\Debug\ATMmachine.pdb
+C:\Users\sevan\Documents\.job\.C#\ATM machine 900\ATMmachine\ATMmachine\obj\Debug\ATMmachine.Authorization.resources
